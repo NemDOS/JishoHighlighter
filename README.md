@@ -7,3 +7,4 @@ I also wanted to write a Firefox Extension.
 
 So here I am.
 
+https://addons.mozilla.org/en-US/firefox/addon/jisho-highlighter/
